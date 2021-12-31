@@ -1,4 +1,3 @@
-var a = window.document.getElementById('area')
 
 function clicar() {
     var a = window.document.getElementById('area')
